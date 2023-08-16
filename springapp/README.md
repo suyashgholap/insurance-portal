@@ -1,5 +1,5 @@
 <h1>Backend Application</h1>
-<p>To Run App : </p>
+<h2>To Run App</h2>
 <ul>
   <li>Go to App Folder</li>
   <li>Type <b>mvn spring-boot:run</b></li>
